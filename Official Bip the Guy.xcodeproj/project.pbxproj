@@ -281,7 +281,7 @@
 		0AB90899232FBBEA0081A27C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R6K7HP7TSL;
 				INFOPLIST_FILE = "Official Bip the Guy/Info.plist";
@@ -299,7 +299,7 @@
 		0AB9089A232FBBEA0081A27C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R6K7HP7TSL;
 				INFOPLIST_FILE = "Official Bip the Guy/Info.plist";
